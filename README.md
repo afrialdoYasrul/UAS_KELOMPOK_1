@@ -79,3 +79,12 @@ logout.php
  
 Logout.php adalah file yang digunakan untuk proses keluar dari program aplikasi. Logout ini untuk menjaga keamanan sebuah akun agar tidak digunakan oleh orang lain. Terdapat sintax session_destroy(); yang berfungsi untuk  menghapus semua session data di server. 
 Setelah berhasil melakukan logout, user akan diarahkan kembali ke halaman login.php.
+
+BUKTI PEMBAYARAN
+![image](https://user-images.githubusercontent.com/103938879/177812556-641e80d5-7a59-47a3-8c34-2431f23639ee.png)
+![WhatsApp Image 2022-07-07 at 22 29 54](https://user-images.githubusercontent.com/103938879/177812730-6a76f1d2-097f-4eec-bd0f-f643d21d7fd2.jpeg)
+![WhatsApp Image 2022-07-07 at 22 31 10](https://user-images.githubusercontent.com/103938879/177812870-0476be2a-bee7-4d8e-af9a-f8fdfca2ac1a.jpeg)
+![WhatsApp Image 2022-07-07 at 22 31 15](https://user-images.githubusercontent.com/103938879/177812947-4ed192e2-a367-46f2-ba45-3a9640250574.jpeg)
+![WhatsApp Image 2022-07-07 at 22 31 15](https://user-images.githubusercontent.com/103938879/177812998-bffe5556-7849-4285-ba38-37f27b155576.jpeg)
+![WhatsApp Image 2022-07-07 at 22 32 05](https://user-images.githubusercontent.com/103938879/177813083-b8009e1f-7400-4091-abcd-7bb00689c79e.jpeg)
+
