@@ -35,6 +35,8 @@ Sistem aplikasi ini adalah web base yang dikembangkan dengan menggunakan bahasa 
 Aplikasi ini menerapkan operasi operasi CRUD (Create, Read, Update, dan Delete) dengan bahasa PHP dan menyimpan database di MySQL.
 
 Berikut fungsi PHP dari setiap fitur Aplikasi Data Data Pasien Covid-19 :
+
+
 Index.php dibuat oleh Afrialdo Yasrul Nantunggal.
 
 Index.php ini merupakan tampilan halaman website setelah user berhasil login. Pada halamain ini menampilkan data pasien covid-19 dari setiap provinsi di Indonesia, 
