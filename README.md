@@ -85,6 +85,6 @@ BUKTI PEMBAYARAN
 ![WhatsApp Image 2022-07-07 at 22 29 54](https://user-images.githubusercontent.com/103938879/177812730-6a76f1d2-097f-4eec-bd0f-f643d21d7fd2.jpeg)
 ![WhatsApp Image 2022-07-07 at 22 31 10](https://user-images.githubusercontent.com/103938879/177812870-0476be2a-bee7-4d8e-af9a-f8fdfca2ac1a.jpeg)
 ![WhatsApp Image 2022-07-07 at 22 31 15](https://user-images.githubusercontent.com/103938879/177812947-4ed192e2-a367-46f2-ba45-3a9640250574.jpeg)
-![WhatsApp Image 2022-07-07 at 22 31 15](https://user-images.githubusercontent.com/103938879/177812998-bffe5556-7849-4285-ba38-37f27b155576.jpeg)
+![WhatsApp Image 2022-07-07 at 22 31 04 (1)](https://user-images.githubusercontent.com/103938879/177813551-43c141db-4fb7-46a8-b6f8-03037b9e49b6.jpeg)
 ![WhatsApp Image 2022-07-07 at 22 32 05](https://user-images.githubusercontent.com/103938879/177813083-b8009e1f-7400-4091-abcd-7bb00689c79e.jpeg)
 
